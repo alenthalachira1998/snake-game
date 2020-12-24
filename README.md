@@ -1,2 +1,2 @@
-Just ru it 
+Just run it 
 
